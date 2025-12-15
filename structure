@@ -1,0 +1,6 @@
+SIEM-Detection-Rules/
+├── splunk/
+│   ├── brute_force.spl
+│   ├── suspicious_process.spl
+├── wazuh/
+│   ├── custom_rules.xml
